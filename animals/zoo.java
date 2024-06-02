@@ -13,7 +13,7 @@ public class zoo {
         Lion ln = new Lion("Loin",5);
         ln.eat("meat");
         ln.makeSound(3);
-        ln.getAge();
+    
         
        
         
