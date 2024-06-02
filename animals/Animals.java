@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package vu.animals;
+package vu. animals;
 
 /**
  *
@@ -10,7 +10,7 @@ package vu.animals;
  */
 
 public class Animals {
-// feilds 
+// fields 
     String name;
     int age;
     //constructor
@@ -28,11 +28,9 @@ public class Animals {
     
     // overloaded eat
     public void eat( String Foodtype){
-        System.out.println("The Animal eat" +Foodtype);
+        System. out.println("The Animal eat" +Foodtype);
       
     } 
-    public int getAge(){
-        return age;
-    }
+    
 }
 
